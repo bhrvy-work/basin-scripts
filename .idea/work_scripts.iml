@@ -5,9 +5,13 @@
       <sourceFolder url="file://$MODULE_DIR$/culverts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dir_structure" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arcpy_scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grass_scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/taudem_scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/whitebox_scripts" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.spyproject" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (scripts) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (scripts)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
@@ -16,5 +20,6 @@
   <component name="PyDocumentationSettings">
     <option name="format" value="NUMPY" />
     <option name="myDocStringFormat" value="NumPy" />
+    <option name="renderExternalDocumentation" value="true" />
   </component>
 </module>
